@@ -13,3 +13,29 @@
 /* Professional focus and expanded skills */
 .about-copy p+p{max-width:1000px}.about-copy p em{color:var(--gold);font-style:normal}.about-facts dd{font-size:16px}.about-facts small{line-height:1.7}.skill-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:40px 0}.skill-grid article,.skill-grid article:first-child,.skill-grid article:last-child{padding:0 35px;border:0}.skill-grid article:nth-child(odd){padding-left:0;border-right:1px solid #c4d2d3}.skill-grid article:nth-child(even){padding-right:0}.skill-grid article:nth-child(n+3){padding-top:30px;border-top:1px solid #c4d2d3}.skill-grid p{min-height:0}.hero-copy .facts{line-height:2.2}.hero-summary small{line-height:1.6}
 @media(max-width:760px){.skill-grid{grid-template-columns:1fr;gap:0}.skill-grid article,.skill-grid article:first-child,.skill-grid article:last-child,.skill-grid article:nth-child(odd),.skill-grid article:nth-child(even){padding:26px 0;border:0;border-top:1px solid #c4d2d3}.about-copy p+p{font-size:16px}.hero-copy .facts{font-size:9px}.hero-summary strong{line-height:1.4}}
+
+/* Skills and competition participation */
+.skills{background:var(--paper)}
+.skill-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.skill-grid article,.skill-grid article:first-child,.skill-grid article:last-child,.skill-grid article:nth-child(odd),.skill-grid article:nth-child(even){padding:26px;border:0;transition:background-color .3s,transform .3s}
+.skill-grid article:hover{background-color:#e0ecec;transform:translateY(-3px)}
+.skill-grid h3{font:800 34px/1.05 var(--display);text-transform:uppercase;letter-spacing:-.025em;margin-top:12px}
+.skill-grid p{margin-top:15px;min-height:75px;max-width:520px}
+.skill-badges{gap:8px;margin-top:20px}.skill-badges span{display:inline-flex;align-items:center;gap:9px;padding:7px 10px;border-radius:0;background:#f7fafb99;color:var(--ink);font-size:12px}
+.skill-badges i{display:inline-flex;color:var(--badge-color);font-style:normal}.skill-badges svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.achievements{padding:95px 0 20px}.achievement-card{display:grid;grid-template-columns:1.05fr 1fr;gap:50px;padding:32px;align-items:center}
+.achievement-copy h3{font:800 clamp(42px,5vw,68px)/1 var(--display);letter-spacing:-.025em;margin-top:15px}
+.achievement-subtitle{font:700 28px/1.2 var(--display);color:var(--teal);margin-top:8px!important}
+.achievement-copy>p:not(.eyebrow):not(.achievement-subtitle){font-size:14px;line-height:1.85;color:var(--muted);margin-top:18px}
+.achievement-facts{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;border-block:1px solid var(--line);padding:18px 0;margin:23px 0 0}
+.achievement-facts dt{font-size:9px;letter-spacing:1px;color:var(--muted)}.achievement-facts dd{font-size:12px;margin:6px 0 0}
+.ctf-details{margin-top:12px}.ctf-details ul{padding-left:18px;color:var(--muted);line-height:1.8}.ctf-details li+li{margin-top:10px}
+.osint-art{position:relative;padding:28px;background:#dce9e9;min-height:480px;overflow:hidden;border:1px solid #c2d3d6;background-image:radial-gradient(#8eabb350 .8px,transparent .8px);background-size:18px 18px}
+.osint-art-head{display:flex;justify-content:space-between;align-items:center;font:10px monospace;letter-spacing:1px;color:var(--teal)}.osint-art-head b{background:var(--gold);color:var(--ink);padding:8px 12px;font:800 18px var(--display)}
+.photo-evidence{background:#f6fafa;padding:12px;margin:30px auto 0;max-width:340px;transform:rotate(-5deg);box-shadow:12px 18px 0 #adc6cb66;transition:transform .5s}.achievement-card:hover .photo-evidence{transform:rotate(-2deg)}
+.photo-evidence>svg{width:100%;display:block}.photo-evidence>div{padding:14px 5px 6px}.photo-evidence span{display:block;font:8px monospace;letter-spacing:1px;color:var(--teal)}.photo-evidence b{font:800 28px/1.2 var(--display);display:block;margin-top:7px}
+.evidence-clues{position:relative;display:flex;flex-wrap:wrap;gap:7px;justify-content:center;margin:35px -12px 28px}.evidence-clues span{background:var(--ink);color:var(--paper);font:8px monospace;letter-spacing:.4px;padding:8px;display:flex;align-items:center;gap:6px}.evidence-clues svg{width:13px;height:13px;fill:none;stroke:#a3d1d5;stroke-width:1.6}
+.osint-art-foot{font:8px monospace;letter-spacing:1px;text-align:center;color:#476773}
+@media(min-width:1450px){.skill-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.skill-grid h3{font-size:29px}.skill-grid p{min-height:130px}.skill-grid article{padding:22px!important}}
+@media(max-width:1050px){.achievement-card{gap:30px;padding:24px}.osint-art{padding:20px;min-height:420px}.evidence-clues{margin-inline:0}.achievement-copy>p:not(.eyebrow):not(.achievement-subtitle){font-size:13px}}
+@media(max-width:760px){.skills .heading h2{font-size:64px}.skill-grid{grid-template-columns:1fr;gap:22px}.skill-grid article,.skill-grid article:first-child,.skill-grid article:last-child,.skill-grid article:nth-child(odd),.skill-grid article:nth-child(even){padding:24px 20px;border:0}.skill-grid p{min-height:0}.skill-grid h3{font-size:31px}.skill-badges span{font-size:11px;padding:7px 9px}.achievements{padding:65px 0 0}.achievement-card{grid-template-columns:1fr;padding:18px;gap:30px}.achievements .heading h2{font-size:clamp(41px,10.5vw,58px)}.osint-art{min-height:0;padding:18px 16px}.photo-evidence{margin-top:22px}.photo-evidence b{font-size:25px}.evidence-clues{margin-top:29px;margin-bottom:20px}.achievement-copy h3{font-size:44px}.achievement-subtitle{font-size:26px}.achievement-facts{gap:8px}.achievement-facts dt{font-size:8px}.achievement-facts dd{font-size:11px}.achievement-copy>p:not(.eyebrow):not(.achievement-subtitle){font-size:14px}}
