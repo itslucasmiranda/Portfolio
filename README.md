@@ -6,7 +6,7 @@
 
 Construir sistemas. Entender seus limites. Evoluir com código, dados e segurança.
 
-[**Acessar o portfólio ↗**](https://itslucasmiranda.github.io/Portfolio/) · [GitHub](https://github.com/itslucasmiranda) · [Artigos no Medium](https://medium.com/@Wh01sDr)
+[**Acessar o portfólio ↗**](https://itslucasmiranda.github.io/Portfolio/) · [GitHub](https://github.com/itslucasmiranda) · [Artigos no Medium](https://medium.com/@itslucasmirandaa)
 
 ![HTML5](https://img.shields.io/badge/HTML5-0d1026?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1026?style=flat-square&logo=css&logoColor=639)
@@ -30,6 +30,7 @@ O site apresenta os projetos e seus estágios de desenvolvimento, minha trajetó
 | [Sobre](https://itslucasmiranda.github.io/Portfolio/#sobre) | Minha atuação em software, IA e segurança |
 | [Conquistas](https://itslucasmiranda.github.io/Portfolio/#conquistas) | Participação no CTF de OSINT da Larsec e escopo da investigação a partir de uma fotografia |
 | [Projetos](https://itslucasmiranda.github.io/Portfolio/#projetos) | Aplicações, repositórios e detalhes de implementação |
+| [Artigos](https://itslucasmiranda.github.io/Portfolio/#artigos) | Publicações sobre RAG, WPScan e HTTP no Medium |
 | [Skills](https://itslucasmiranda.github.io/Portfolio/#habilidades) | Tecnologias e áreas de estudo organizadas por especialidade |
 | [Trajetória](https://itslucasmiranda.github.io/Portfolio/#trajetoria) | Automação com Python, documentação de APIs e análise de APKs em laboratório |
 | [Contato](https://itslucasmiranda.github.io/Portfolio/#contato) | Perfis profissionais, código e artigos |
@@ -95,7 +96,7 @@ O GitHub Pages publica os arquivos da raiz da branch `main`. Após uma alteraç�
 
 Artigo sobre o desenvolvimento do AI Knowledge Assistant, abordando FastAPI, embeddings, busca semântica, integração com LLMs, avaliação de recuperação e análise de falhas.
 
-- [Ler artigo no Medium](https://medium.com/@Wh01sDr/construindo-um-rag-do-zero-com-python-da-busca-sem%C3%A2ntica-%C3%A0-avalia%C3%A7%C3%A3o-de-respostas-com-llms-dacc35d3f0c2)
+- [Ler artigo no Medium](https://medium.com/@itslucasmirandaa/construindo-um-rag-do-zero-com-python-da-busca-sem%C3%A2ntica-%C3%A0-avalia%C3%A7%C3%A3o-de-respostas-com-llms-dacc35d3f0c2)
 - [Explorar projeto no GitHub](https://github.com/itslucasmiranda/ai-knowledge-assistant)
 
 ---
@@ -103,6 +104,6 @@ Artigo sobre o desenvolvimento do AI Knowledge Assistant, abordando FastAPI, emb
 <div align="center">
 
 **Lucas Miranda** · Salvador, Bahia, Brasil  
-[Portfólio](https://itslucasmiranda.github.io/Portfolio/) · [GitHub](https://github.com/itslucasmiranda) · [Medium](https://medium.com/@Wh01sDr)
+[Portfólio](https://itslucasmiranda.github.io/Portfolio/) · [GitHub](https://github.com/itslucasmiranda) · [Medium](https://medium.com/@itslucasmirandaa)
 
 </div>
