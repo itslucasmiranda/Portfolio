@@ -89,9 +89,14 @@ O GitHub Pages publica os arquivos da raiz da branch `main`. Após uma alteraç�
 
 **Endereço público:** https://itslucasmiranda.github.io/Portfolio/
 
-## Referência visual
+## Publicações técnicas
 
-Layout e movimentos inspirados no [portfólio de Rinlay Heang](https://rinlayheang.me/), adaptados ao meu conteúdo e identidade.
+### Construindo um RAG do zero com Python
+
+Artigo sobre o desenvolvimento do AI Knowledge Assistant, abordando FastAPI, embeddings, busca semântica, integração com LLMs, avaliação de recuperação e análise de falhas.
+
+- [Ler artigo no Medium](https://medium.com/@Wh01sDr/construindo-um-rag-do-zero-com-python-da-busca-sem%C3%A2ntica-%C3%A0-avalia%C3%A7%C3%A3o-de-respostas-com-llms-dacc35d3f0c2)
+- [Explorar projeto no GitHub](https://github.com/itslucasmiranda/ai-knowledge-assistant)
 
 ---
 
