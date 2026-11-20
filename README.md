@@ -43,7 +43,7 @@ API em Python e FastAPI para consultar documentos em linguagem natural. Inclui i
 
 ### [ML Review Classifier](https://github.com/itslucasmiranda/ml-review-classifier)
 
-Projeto em desenvolvimento para classificação de avaliações textuais, comparação de modelos e análise de métricas. O repositório apresenta a proposta e os próximos passos.
+Concluí e publiquei no [Hugging Face](https://huggingface.co/itslucasmiranda/ml-review-classifier) um classificador de sentimento para avaliações em inglês. O modelo combina TF-IDF e regressão logística e atingiu 81,56% de acurácia em 602 avaliações de teste.
 
 ## Como o site foi construído
 
