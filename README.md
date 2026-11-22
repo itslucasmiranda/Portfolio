@@ -65,7 +65,7 @@ As tecnologias dos projetos apresentados, como Python e FastAPI, pertencem aos r
 | [index.html](index.html) | Conteúdo, estrutura semântica e ilustrações das seções |
 | [styles.css](styles.css) | Identidade visual, responsividade e animações |
 | [script.js](script.js) | Menu, navegação, controle de movimento e interações |
-| [contours.svg](contours.svg) | Textura topográfica de fundo |
+| [assets/images/contours.svg](assets/images/contours.svg) | Textura topográfica de fundo |
 
 ## Executar localmente
 
